@@ -183,6 +183,7 @@ For a reference to old feature gates that are removed, please refer to
 | `RemainingItemCount` | `true` | Beta | 1.16 | |
 | `RotateKubeletServerCertificate` | `false` | Alpha | 1.7 | 1.11 |
 | `RotateKubeletServerCertificate` | `true` | Beta | 1.12 | |
+| `RuntimeClassInImageCriApi` | `false` | Alpha | 1.29 | |
 | `SELinuxMountReadWriteOncePod` | `false` | Alpha | 1.25 | 1.26 |
 | `SELinuxMountReadWriteOncePod` | `false` | Beta | 1.27 | 1.27 |
 | `SELinuxMountReadWriteOncePod` | `true` | Beta | 1.28 | |
